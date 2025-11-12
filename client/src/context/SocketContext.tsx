@@ -1,7 +1,7 @@
 import { createContext, useContext } from "react";
 import { io, Socket } from "socket.io-client";
 
-const socket: Socket = io("http://localhost:5000");
+const socket: Socket = io("https://multiplayer-task.onrender.com");
 
 const SocketContext = createContext<Socket>(socket);
 
