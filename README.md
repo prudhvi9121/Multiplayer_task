@@ -1,6 +1,6 @@
 # Multiplayer Unicode Grid
 
-A real-time multiplayer web application where users can collaboratively fill a shared 10×10 grid with Unicode characters — built using **React, Node.js, and Socket.IO**.
+A real-time multiplayer web application where users can collaboratively fill a shared 10×10 grid with Unicode characters built using **React, Node.js, and Socket.IO**.
 
 ---
 
