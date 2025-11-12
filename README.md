@@ -5,7 +5,7 @@ A real-time multiplayer web application where users can collaboratively fill a s
 ---
 
 ## 🚀 Live Demo
-- **Frontend:** 
+- **Frontend:** - https://multiplayer-task.vercel.app/
 - **Backend:** - https://multiplayer-task.onrender.com/
 
 ---
@@ -36,16 +36,18 @@ A real-time multiplayer web application where users can collaboratively fill a s
 
 ---
 
-## 🧭 How to Run Locally
+##  How to Run Locally
 
-### 1️⃣ Backend
+### Backend
 ```bash
 cd server
 npm install
 npm run dev
+```
 
-### 1️⃣ Frontend
+### Frontend
 ```bash
 cd client
 npm install
 npm run dev
+```
